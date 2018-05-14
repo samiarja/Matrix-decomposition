@@ -1,4 +1,4 @@
-# matrix-decomposition
+# Matrix-decomposition
 <br>
 
 A Matrix decomposition is a way of reducing matrix into constituent parts.
