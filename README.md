@@ -87,7 +87,7 @@ Where A is the matrix being decomposed, L is the lower triangular matrix and L^T
 Cholesky Decomposition looks like that:
 <br>
 
-**It looks like this:**
+**It looks something like this:**
 <br>
 
 ![Cholesky Decomposition](https://github.com/samiarja/Matrix-decomposition/blob/master/cholesky-decomp.PNG)
